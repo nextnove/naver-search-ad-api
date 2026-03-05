@@ -1,7 +1,11 @@
 # 네이버 검색광고 API Starter | Naver Search Ad API
 
-[![Node.js](https://img.shields.io/badge/node-%3E%3D14.0.0-brightgreen)](https://nodejs.org/)
+[![Node.js](https://img.shields.io/badge/node-%3E%3D18.0.0-brightgreen)](https://nodejs.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+[네이버 키워드 분석 도구](https://github.com/nextnove/naver-keyword-analyzer)로 이전
+
+---
 
 네이버 검색광고 API를 사용하기 위한 node.js 기본 구현 예제입니다. 인증, 서명 생성, API 호출 등 핵심 기능을 포함하고 있어 이 코드를 기반으로 다양한 기능을 확장할 수 있습니다.
 
@@ -21,7 +25,7 @@
 
 ## 📋 사전 요구사항
 
-- Node.js 14.0.0 이상
+- Node.js 18.0.0 이상
 - 네이버 검색광고 계정 (무료 가입 가능)
 - 네이버 검색광고 API 키 (무료 발급)
 
