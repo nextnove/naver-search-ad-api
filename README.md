@@ -1,4 +1,4 @@
-# 네이버 검색광고 API Starter | Naver Search Ad API Starter
+# 네이버 검색광고 API Starter | Naver Search Ad API
 
 [![Node.js](https://img.shields.io/badge/node-%3E%3D14.0.0-brightgreen)](https://nodejs.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
