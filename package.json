@@ -1,0 +1,14 @@
+{
+  "name": "naver-search-ad-api",
+  "version": "1.0.0",
+  "description": "네이버 검색광고 API를 이용한 키워드 검색량 분석 도구",
+  "main": "src/index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "dependencies": {
+    "axios": "^1.13.6",
+    "dotenv": "^17.3.1"
+  }
+}
